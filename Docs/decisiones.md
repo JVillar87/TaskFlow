@@ -1,4 +1,6 @@
 - Se utilizará una arquitectura MVC sencilla.
 - Cada usuario solo puede acceder a sus propias tareas.
+- Se crearán roles para los usuarios.
 - Se usarán sesiones de PHP para la autenticación.
 - Se trabajará con commits pequeños y descriptivos.
+- La descripción de las tareas se limita a 255 caracteres porque el objetivo es mantenerlas breves y concisas.
