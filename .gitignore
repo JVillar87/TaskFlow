@@ -1,0 +1,14 @@
+# VSCode Config
+.vscode/
+
+# Logs
+*.log
+
+# Archivos temporales
+*.tmp
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
