@@ -1,0 +1,4 @@
+- Se utilizará una arquitectura MVC sencilla.
+- Cada usuario solo puede acceder a sus propias tareas.
+- Se usarán sesiones de PHP para la autenticación.
+- Se trabajará con commits pequeños y descriptivos.
