@@ -2,8 +2,9 @@
 
 INSERT INTO users (username, email, password)
 VALUES ('Jenny', 'jennifer.villar@estudiant.fjaverianas.com', '1234'),
-       ('Judith', 'jlopez@fjaverianas.com', '4567'),
-       ('Marc', 'mcallejon@fjaverianas.com','5353');
+       ('Judith', 'jlopez@fjaverianas.com', '4567'),        
+       ('Marc', 'mcallejon@fjaverianas.com','5353'), 
+       ('Albert', 'aguardiola@fjaverianas.com', '6765'); 
 
 
 -- TAREAS

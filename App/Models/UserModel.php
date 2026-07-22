@@ -10,7 +10,7 @@ class UserModel
         $this->pdo = $pdo;
     }
 
-    //Encontrar usuario por email
+    //Encontrar user por email
     public function buscarPorEmail(string $email)
     {
         $sql = "SELECT * FROM users WHERE email = :email";
