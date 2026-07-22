@@ -13,7 +13,6 @@ created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 ); 
 
 
-
 CREATE TABLE tasks ( 
 
 id INT PRIMARY KEY auto_increment, 
